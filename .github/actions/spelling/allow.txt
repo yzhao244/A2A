@@ -6,6 +6,7 @@ ACard
 AClient
 ACo
 ADK
+ADR
 AError
 AExecutor
 AGP
@@ -19,6 +20,7 @@ ASq
 AStarlette
 AUTOCOMMIT
 Agentspace
+Agno
 Autogen
 Blogs
 CAs
@@ -78,6 +80,7 @@ Lix
 MSIs
 MWpm
 Mapr
+Mvosg
 Nszl
 OIDC
 OOa
@@ -126,11 +129,14 @@ aboutasha
 achat
 aconnect
 adk
+adr
+adrs
 afet
 affef
 agentcard
 agentic
 agentskill
+agno
 agntcy
 agp
 ainvoke
@@ -153,6 +159,7 @@ backstory
 backticks
 bbb
 beeai
+boq
 bufbuild
 bzr
 cae
@@ -166,6 +173,7 @@ coc
 codegen
 codeowner
 codespace
+codewiki
 crewai
 datamodel
 datapart
@@ -233,13 +241,16 @@ jku
 jqlang
 jti
 jwks
+kadirpekel
 konami
 kty
 langgraph
+lerhaupt
 linenums
 linkedin
 linting
 listtasks
+litellm
 llm
 llms
 lng
@@ -250,6 +261,7 @@ mcr
 mesop
 mikefarah
 mindsdb
+mintlify
 motherlode
 mozilla
 msword
@@ -275,6 +287,7 @@ postgresql
 pqr
 prefecthq
 protoc
+protojson
 protolint
 pyguide
 pylance
